@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  Stoffbergie ships practical tools around desktop workflows, Cloudflare edge systems, content sharing, regression detection, and modern full-stack starts.
+  Stoffbergie ships practical tools around private screen sharing, desktop workflows, Cloudflare edge systems, content sharing, regression detection, and modern full-stack starts.
   The bias is simple: useful defaults, quiet interfaces, fast local loops, and code that is easy to own.
 </p>
 
@@ -40,8 +40,18 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/better-teams"><strong>better-teams</strong></a><br>
-      A calmer, faster Microsoft Teams desktop app with a focused custom UI.
+      <a href="https://github.com/Stoffbergie/tailview"><strong>tailview</strong></a><br>
+      Private tailnet screen sharing for Mac, web, and iPhone.
+    </td>
+    <td width="50%">
+      <a href="https://github.com/Stoffbergie/strus"><strong>strus</strong></a><br>
+      Structural regression detection for web apps.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Stoffbergie/sysprompt"><strong>sysprompt</strong></a><br>
+      Prompt and system-instruction tooling for sharper AI workflows.
     </td>
     <td width="50%">
       <a href="https://github.com/Stoffbergie/shrd.sh"><strong>shrd.sh</strong></a><br>
@@ -54,19 +64,18 @@
       Temporary shell and file access through Cloudflare Workers.
     </td>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/project-zap"><strong>project-zap</strong></a><br>
-      TanStack Start, Convex, WorkOS, and shadcn/ui in one usable starter.
+      <a href="https://github.com/Stoffbergie/record"><strong>record</strong></a><br>
+      Privacy-first activity tracking for macOS.
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/record"><strong>record</strong></a><br>
-      Privacy-first activity tracking for macOS.
+      <a href="https://github.com/Stoffbergie/better-teams"><strong>better-teams</strong></a><br>
+      A calmer, faster Microsoft Teams desktop app with a focused custom UI.
     </td>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/strus-middleware"><strong>strus-middleware</strong></a><br>
-      API response monitoring middleware for Strus.
+      <a href="https://github.com/Stoffbergie/project-zap"><strong>project-zap</strong></a><br>
+      TanStack Start, Convex, WorkOS, and shadcn/ui in one usable starter.
     </td>
   </tr>
 </table>
-
