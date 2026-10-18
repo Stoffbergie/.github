@@ -54,8 +54,8 @@
       Prompt and system-instruction tooling for sharper AI workflows.
     </td>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/shrd.sh"><strong>shrd.sh</strong></a><br>
-      CLI-first content sharing on Cloudflare's edge.
+      <a href="https://github.com/Stoffbergie/keep"><strong>keep</strong></a><br>
+      Files from your terminal, kept forever.
     </td>
   </tr>
   <tr>
