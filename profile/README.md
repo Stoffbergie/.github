@@ -78,4 +78,11 @@
       TanStack Start, Convex, WorkOS, and shadcn/ui in one usable starter.
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/Stoffbergie/beam"><strong>beam</strong></a><br>
+      Your localhost, on the internet. Share a local port or catch and replay webhooks.
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
