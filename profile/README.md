@@ -60,8 +60,8 @@
   </tr>
   <tr>
     <td width="50%">
-      <a href="https://github.com/Stoffbergie/shell-over-edge"><strong>shell-over-edge</strong></a><br>
-      Temporary shell and file access through Cloudflare Workers.
+      <a href="https://github.com/Stoffbergie/reach"><strong>reach</strong></a><br>
+      Reach any shell from anywhere. Temporary shell access over HTTPS.
     </td>
     <td width="50%">
       <a href="https://github.com/Stoffbergie/record"><strong>record</strong></a><br>
