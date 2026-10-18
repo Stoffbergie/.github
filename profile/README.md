@@ -81,8 +81,11 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/Stoffbergie/beam"><strong>beam</strong></a><br>
-      Your localhost, on the internet. Share a local port or catch and replay webhooks.
+      Your localhost, on the internet. Share a local port with a public URL.
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <a href="https://github.com/Stoffbergie/hook"><strong>hook</strong></a><br>
+      Webhooks, caught and replayed. Deliver them to localhost and replay any of them.
+    </td>
   </tr>
 </table>
